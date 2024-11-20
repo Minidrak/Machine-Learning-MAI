@@ -1,5 +1,6 @@
 
 ## Dataset Description
+![score](https://github.com/user-attachments/assets/7526f331-135a-44f3-881f-ee50d1fc5c74)
 
 Классическая задача прогноза продаж в сети магазинов.
 
